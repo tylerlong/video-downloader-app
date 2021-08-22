@@ -1,3 +1,4 @@
 # Video Downloader
 
-![icon](./icon.png)
+<img src="./icon.png" width="128" height="128">
+
